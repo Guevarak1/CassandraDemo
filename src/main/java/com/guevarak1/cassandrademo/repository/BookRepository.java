@@ -1,6 +1,6 @@
 package com.guevarak1.cassandrademo.repository;
 
-import com.guevarak1.cassandrademo.service.Book;
+import com.guevarak1.cassandrademo.repository.models.Book;
 import org.springframework.data.cassandra.repository.CassandraRepository;
 import org.springframework.stereotype.Repository;
 

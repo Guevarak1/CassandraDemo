@@ -1,4 +1,4 @@
-package com.guevarak1.cassandrademo.service;
+package com.guevarak1.cassandrademo.repository.models;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;

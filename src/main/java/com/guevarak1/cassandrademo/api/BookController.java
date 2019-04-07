@@ -1,6 +1,6 @@
 package com.guevarak1.cassandrademo.api;
 
-import com.guevarak1.cassandrademo.service.Book;
+import com.guevarak1.cassandrademo.repository.models.Book;
 import com.guevarak1.cassandrademo.service.BookService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;

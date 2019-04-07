@@ -2,6 +2,7 @@ package com.guevarak1.cassandrademo.service;
 
 import com.datastax.driver.core.utils.UUIDs;
 import com.guevarak1.cassandrademo.repository.BookRepository;
+import com.guevarak1.cassandrademo.repository.models.Book;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
